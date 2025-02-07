@@ -1,0 +1,9 @@
+{
+	"name": "adf-np-d-first-test",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ba987d6-7f97-4946-a43e-5e8bc92df60e",
+		"tenantId": "9dfb1a05-5f1d-449a-8960-62abcb479e7d"
+	}
+}
