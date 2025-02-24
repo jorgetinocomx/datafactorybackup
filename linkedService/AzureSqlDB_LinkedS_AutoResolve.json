@@ -1,0 +1,14 @@
+{
+	"name": "AzureSqlDB_LinkedS_AutoResolve",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "sqls-np-ss-database.database.windows.net",
+			"database": "sql_database_ss_database",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}
